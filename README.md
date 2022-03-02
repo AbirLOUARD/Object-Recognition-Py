@@ -28,6 +28,11 @@ In your Terminal
 ```
 https://github.com/AbirLOUARD/Reconnaissance-objets.git
 ```
+You must indicate the path to the folder where the images are stored.
+when executing the script:
+```
+python main.py folder
+```
 You have to recover all the images, be careful to separate the 
 reference image of the images to be compared. For this, use the
 following agreements:
