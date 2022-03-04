@@ -39,3 +39,4 @@ following agreements:
   - The name of the reference image must start with “Reference”.
   - Images must be in JPG format.
   
+  
