@@ -38,3 +38,4 @@ reference image of the images to be compared. For this, use the
 following agreements:
   - The name of the reference image must start with “Reference”.
   - Images must be in JPG format.
+  - 
