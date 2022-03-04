@@ -17,6 +17,8 @@ detects the different objects in order to bring out the changes.
 Project created with:
 Python 3.9
 
+
+
 ## How To Use
 
 Don't forget to install open cv.
