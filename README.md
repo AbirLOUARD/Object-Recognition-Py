@@ -18,7 +18,6 @@ Project created with:
 Python 3.9
 
 
-
 ## How To Use
 
 Don't forget to install open cv.
