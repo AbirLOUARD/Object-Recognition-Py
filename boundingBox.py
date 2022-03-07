@@ -8,8 +8,6 @@ class BB :
     self.w = w
     self.h = h
 
-
-
 def findAndDrawBB(imageWithDifferences, imageOriginal, imageToDraw, imageFloorRegion, valeurPixelFloor):
     listBB = []
     compteurBB = 0
