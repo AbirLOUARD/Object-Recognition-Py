@@ -61,6 +61,7 @@ def findAndDrawBB(imageWithDifferences, imageOriginal, imageToDraw, imageFloorRe
 
     return compteurBB
 
+  
 
 """
 def findAndDrawBBGRAY(imageWithDifferences, imageToDraw):
