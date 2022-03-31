@@ -26,7 +26,7 @@ pip install opencv-python
 In your Terminal
 
 ```
-https://github.com/AbirLOUARD/Reconnaissance-objets.git
+git clone https://github.com/AbirLOUARD/Reconnaissance-objets.git
 ```
 You must indicate the path to the folder where the images are stored.
 when executing the script:
